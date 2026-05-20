@@ -29,9 +29,6 @@ An integrated embedded system prototype designed to merge daily spiritual tradit
 
 ## 💻 Image
 <h2 id="gallery">📷 Project Gallery</h2>
-<img width="959" height="1280" alt="Gemini_Generated_Image_zgwojvzgwojvzgwo" src="" />
-<img width="902" height="915" alt="لقطة شاشة 2026-05-20 062501" src="https://github.com/user-attachments/assets/3d52a34b-3a0d-4a42-8030-b8112bbd0aee" />
-<img width="956" height="917" alt="لقطة شاشة 2026-05-20 062446" src="https://github.com/user-attachments/assets/ebb7d5c1-7f82-49fa-a5bb-53cc249d7943" />
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f0da540e-523d-4061-b861-4703ece624d0" width="31%" alt="Image 1 - صورة القطعة النهائية" />
